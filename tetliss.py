@@ -5,7 +5,7 @@ import random #randomモジュールをインポート
 import copy #copyモジュールをインポート
 
 # 定数    
-MAX_ROW = 18 #高さの指定
+MAX_ROW = 20 #高さの指定
 MAX_COL = 10 #横幅の指定
 
 class Block:
